@@ -17,5 +17,4 @@ och lade sedan inte "app_text" i "activity_main.xml".
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/appBarLayout" />
 ```
-
 ![](screenshot.jpg)
